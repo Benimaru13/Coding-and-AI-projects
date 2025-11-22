@@ -26,8 +26,9 @@ Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![Writing](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://penvibe.com/wp-content/uploads/2009/10/Handwriting-Sample-Text.jpg)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="ttps://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://penvibe.com/wp-content/uploads/2009/10/Handwriting-Sample-Text.jpg)" width="300">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://penvibe.com/wp-content/uploads/2009/10/Handwriting-Sample-Text.jpg" width="300">
+<img src="https://www.researchgate.net/profile/Sung-Hyuk-Cha/publication/228846030/figure/fig3/AS:667709830361089@1536205837124/Some-copybook-handwriting-styles-for-the-word-beheaded.png" width="300">
 
 # Code block samples
 ```
